@@ -2,7 +2,7 @@
     "name":        "gemstone",
     "homepage":    "http://gemstonejs.com",
     "description": "Gemstone JavaScript Technology Stack (Stub Package)",
-    "version":     "0.9.0",
+    "version":     "0.9.1",
     "license":     "Apache-2.0",
     "author": {
         "name":    "Gemstone Project",
@@ -20,7 +20,7 @@
     },
     "dependencies" : {
         "gemstone-tool":                 "~0.9.0",
-        "gemstone-tool-generator":       "~0.9.0"
+        "gemstone-tool-generator":       "~0.9.1"
     },
     "engines": {
         "node":                          ">=6.0.0"
