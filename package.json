@@ -19,7 +19,7 @@
         "url":  "http://github.com/gemstonejs/gemstone-stub/issues"
     },
     "dependencies" : {
-        "gemstone-tool":                 "~0.9.7",
+        "gemstone-tool":                 "~0.9.8",
         "gemstone-tool-generator":       "~0.9.3"
     },
     "engines": {
