@@ -14,7 +14,7 @@ About
 
 This is the NPM stub package of the
 [Gemstone JavaScript Technology Stack](http://gemstonejs.com).
-It just provides the convenient NPM entry point under `gemstone`
+It just provides the convenient CLI entry point under `gemstone`
 and references other Gemstone packages like Gemstone Tool.
 
 Copyright &amp; License
