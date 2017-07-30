@@ -20,7 +20,7 @@
     },
     "dependencies" : {
         "gemstone-tool":                 "~0.9.23",
-        "gemstone-tool-generator":       "~0.9.23"
+        "gemstone-tool-generator":       "~0.9.24"
     },
     "engines": {
         "node":                          ">=6.0.0"
