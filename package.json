@@ -19,8 +19,8 @@
         "url":  "http://github.com/gemstonejs/gemstone-stub/issues"
     },
     "dependencies" : {
-        "gemstone-tool":                 "~0.9.35",
-        "gemstone-tool-generator":       "~0.9.33"
+        "gemstone-tool":                 "~0.9.36",
+        "gemstone-tool-generator":       "~0.9.34"
     },
     "engines": {
         "node":                          ">=6.0.0"
